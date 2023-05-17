@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/k_vishalll" target="blank"><img src="https://img.shields.io/twitter/follow/k_vishalll?logo=twitter&style=for-the-badge" alt="k_vishalll" /></a> </p>
 
-- 📫 How to reach me **vishalranjanrathor@gmail.com**
+- 📫 How to reach me **vishalranjan105@gmail.com**
 
 - ⚡ Fun fact **I think i am funny.**
 
