@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kvishalll" alt="kvishalll" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/k_vishalll" target="blank"><img src="https://img.shields.io/twitter/follow/k_vishalll?logo=twitter&style=for-the-badge" alt="k_vishalll" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kvishuuu" target="blank"><img src="https://img.shields.io/twitter/follow/kvishuuu?logo=twitter&style=for-the-badge" alt="kvishuuu" /></a> </p>
 
 - 📫 How to reach me **vishalranjan105@gmail.com**
 
@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/k_vishalll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="k_vishalll" height="30" width="40" /></a>
+<a href="https://twitter.com/kvishuuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="k_vishalll" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kvishalll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kvishalll" height="30" width="40" /></a>
-<a href="https://fb.com/k.vishalll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="k.vishalll" height="30" width="40" /></a>
+<a href="https://fb.com/kvishuuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="k.vishalll" height="30" width="40" /></a>
 <a href="https://instagram.com/k_vishalll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k_vishalll" height="30" width="40" /></a>
 </p>
 
